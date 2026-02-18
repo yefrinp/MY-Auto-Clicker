@@ -8,7 +8,7 @@ Plugin de Chrome para enviar likes automáticos en TikTok Lives.
 
 **Made by @YefrinPacheco**
 
-**[⬇ Descargar MY-Auto-Clicker.zip](https://github.com/yefrinp/MY-Auto-Clicker/raw/main/MY-Auto-Clicker.zip)**
+**[⬇ Descargar MY-Auto-Clicker.zip](https://github.com/yefrinp/MY-Auto-Clicker/raw/refs/heads/master/MY-Auto-Clicker.zip)**
 
 ---
 
